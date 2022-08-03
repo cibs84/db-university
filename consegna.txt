@@ -1,3 +1,4 @@
+Consegna del 02/08/2022
 Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardanti una università:
 - sono presenti diversi Dipartimenti (es.: Lettere e Filosofia, Matematica, Ingegneria ecc.);
 - ogni Dipartimento offre più Corsi di Laurea (es.: Civiltà e Letterature Classiche, Informatica, Ingegneria Elettronica ecc..)
@@ -11,3 +12,9 @@ Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi
 Infine, andiamo a definire le colonne.
 BONUS:
 Infine andiamo a definire i tipi di dato di ogni colonna.
+
+Consegna del 03/08/2022
+Dopo aver creato un nuovo database nel vostro phpMyAdmin e aver importato lo schema allegato (si trova nello zip allegato), eseguite le query del file allegato.
+Dovrete farne almeno 6 dal pdf delle select e almeno 2 dal pdf delle Group by.
+Cosa consegnare?
+Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file txt e caricatelo nella vostra repo.
