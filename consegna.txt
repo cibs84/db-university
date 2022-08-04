@@ -18,3 +18,7 @@ Dopo aver creato un nuovo database nel vostro phpMyAdmin e aver importato lo sch
 Dovrete farne almeno 6 dal pdf delle select e almeno 2 dal pdf delle Group by.
 Cosa consegnare?
 Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file txt e caricatelo nella vostra repo.
+
+Consegna del 03/08/2022
+Utilizzando lo stesso database di ieri, eseguite le query in allegato.
+Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
